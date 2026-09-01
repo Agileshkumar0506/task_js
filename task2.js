@@ -181,11 +181,17 @@
 
 // task-17
 
+// let Name = "agilesh";
+// let Age = 22;
+// let City = 'villupuram';
+
+// let Subject = ['maths','science','social','tamil','english'];
+
 // var studentData = {
-//     name : 'Agilesh',
-//     age : 22,
-//     city : 'villupuram',
-//     subjects : ['maths','science','social','tamil','english'],
+//     name : Name,
+//     age : Age,
+//     city : City,
+//     subjects : Subject,
 //     isStudent : true
 // };
 
@@ -195,7 +201,7 @@
 // console.log(studentData.subjects[1]);
 // console.log(studentData.subjects[studentData.subjects.length-1]);
 // console.log(studentData.subjects.length);
-// console.log();studentData
+// console.log(studentData);
 
 // Final Challenge
 
