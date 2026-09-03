@@ -400,9 +400,9 @@
 
 // Step 1 — Get user details
 
-// let Name = prompt('Enter ur name');
-// let Age = prompt('Enter ur age');
-// let City = prompt('Enter ur city');
+// let name = prompt('Enter ur name');
+// let age = prompt('Enter ur age');
+// let city = prompt('Enter ur city');
 
 // Step 2 — Get marks
 
@@ -412,52 +412,40 @@
 
 // Step 3 — Calculate
 
-// console.log(`Total Marks : ${Tamil+Engilsh+Maths}`);
-// console.log(`Average Marks : ${Tamil+Engilsh+Maths/300}`);
+// let total = (Tamil+Engilsh+Maths);
+// let average = (total/3).toFixed(2);
 
 // Step 4 — Check result
 
-// let marks = Number(prompt("Enter Ur Marks"));
-
-// if (marks >= 90 && marks <= 100){
-//     console.log("A Grade");
-// }else if (marks >= 80){
-//     console.log("B Grade");   
-// }else if (marks >= 70){
-//     console.log("C Grade");
-// }else if (marks >= 60){
-//     console.log("D Grade");
-// }else if (marks <= 60 && marks >= 0){
-//     console.log("Fail");
+// if (average >= 90 && average <= 100){
+//     var grade = "A grade";
+// }else if (average >= 80){
+//     var result= "B grade";   
+// }else if (average >= 70){
+//     var result= "C grade";
+// }else if (average >= 60){
+//     var result= "D grade";
+// }else if (average <= 60 && average >= 0){
+//     var result= "Fail";
 // }else{
-//     console.log("Enter Digit Only");
+//     var result= "Invalid";
 // };
 
 // Step 5 — Check voting
 
-// let age = prompt("Enter ur age");
-
 // if(age >= 18){
-//     console.log("u can vote");
+//      var voting = "voting is Eligible";
 // }else{
-//     console.log("u can't vote");
+//     var voting = "voting is not Eligible";
 // };
 
 // Step 6 — Display
-
-// let name = 'Agi';
-// let age = 22;
-// let city = 'Villupuram';
-// let total = 490;
-// let average = 96.30;
-// let grade = "A";
-// let voting = "Eligible";
 
 // console.log(`Name : ${name}`);
 // console.log(`Age : ${age}`);
 // console.log(`City : ${city}`);
 // console.log(`Total : ${total}`);
 // console.log(`Average : ${average}`);
-// console.log(`Grade : ${grade}`);
+// console.log(`Grade : ${result}`);
 // console.log(`Voting : ${voting}`);
 
