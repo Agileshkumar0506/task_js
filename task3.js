@@ -449,9 +449,9 @@
 // let age = 22;
 // let city = 'Villupuram';
 // let total = 490;
-// let average = 96.30
-// let grade = "A"
-// let voting = "Eligible"
+// let average = 96.30;
+// let grade = "A";
+// let voting = "Eligible";
 
 // console.log(`Name : ${name}`);
 // console.log(`Age : ${age}`);
